@@ -1,8 +1,8 @@
 # roblox-intall-uninstall-script
   - install and uninstall roblox
   - Instruction:
-      Download Roblox Launcher from Roblox
-      Commands (change [path to roblox] to path to robloxplayerlauncher e.g: ~/Donwnloads/RobloxPlayerLauncher.exe):
+      - Download Roblox Launcher from Roblox
+      - Commands (change [path to roblox] to path to robloxplayerlauncher e.g: ~/Donwnloads/RobloxPlayerLauncher.exe):
         
         	git clone https://github.com/Dunghun111/roblox-install-uninstall-script ~/roblox-install-uninstall-script
         	cp [path to roblox]/RobloxPlayerLauncher.exe ~/roblox-install-uninstall-script
