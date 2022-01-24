@@ -13,9 +13,10 @@
   - roblox-player-launcher: https://github.com/PJBeans/Roblox-Linux-Launcher made by PJBeans and his contributor
 
 # Note:
-  - 	For people can't launch install-and-uninstall.py try change in installFramework:
+  -  For people can't launch install-and-uninstall.py try change in installFramework:
 
-			    os.system('git clone https://github.com/Dunghun111/Roblox-Linux-Launcher.git ~/launcher_dir')
+	os.system('git clone https://github.com/Dunghun111/Roblox-Linux-Launcher.git ~/launcher_dir')
 
-	- To:
-					os.system('git clone https://github.com/PJBeans/Roblox-Linux-Launcher ~/launcher_dir')
+  -  To:
+
+	os.system('git clone https://github.com/PJBeans/Roblox-Linux-Launcher ~/launcher_dir')
