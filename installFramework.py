@@ -12,6 +12,6 @@ def install_dependencies_and_add_i386_architecture():
 def roblox_install():
     os.system('git clone https://github.com/Dunghun111/Roblox-Linux-Launcher.git ~/launcher_dir')
     os.system('wine RobloxPlayerLauncher.exe')
-    os.system('sudo cp ~/launcher_dir/runRoblox.py /usr/bin/Roblox')
-    os.system('sudo cp ~/launcher_dir/runRoblox.py /usr/bin/roblox')
+    os.system('sudo cp ~/roblox-install-uninstall-script/runRoblox.py /usr/bin/Roblox')
+    os.system('sudo cp ~/roblox-install-uninstall-script/runRoblox.py /usr/bin/roblox')
 
